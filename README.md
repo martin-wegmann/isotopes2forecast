@@ -1,2 +1,22 @@
-# isotopes2forecast
-This is code that is supporting Wegmann et al. 2025
+# Author
+
+Martin Wegmann
+
+# Contact
+
+martin.wegmann@unibe.ch
+
+# Content of this repository
+
+This is code that is supporting Wegmann et al. 2025 (TBA).
+
+This repo consists of R scripts to calculate the EOFs of the isotopic information in the tree ring network.
+As well as a long python jupyter notebook to create the analysis and plots in the paper.
+
+Data sources can be found in the paper above.
+
+# License
+
+The content of this repository is licensed under a CC BY-NC-SA 4.0 license.
+
+<a href="https://example.com">Untitled</a> © 1999 by <a href="https://example.com">Jane Doe</a> is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/nc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
