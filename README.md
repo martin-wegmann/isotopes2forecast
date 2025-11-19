@@ -11,7 +11,8 @@ martin.wegmann@unibe.ch
 This is code that is supporting Wegmann et al. 2025 (TBA).
 
 This repo consists of R scripts to calculate the EOFs of the isotopic information in the tree ring network.
-As well as a long python jupyter notebook to create the analysis and plots in the paper.
+
+As well as a long python jupyter notebook to create the analysis and plots in the paper. This jupyter notebook uses both python and shell/CDO during its course.
 
 Data sources can be found in the paper above.
 
