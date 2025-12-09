@@ -3,7 +3,13 @@ message: "If you use this code, please cite it as below."
 authors:
 - family-names: Wegmann
   given-names: Martin
-orcid: https://orcid.org/0000-0002-5294-2978
+  orcid: https://orcid.org/0000-0002-5294-2978
+  affiliation: "University of Bern"
+  email: "martin.wegmann@unibe.ch"
+- family-names: Balting
+  given-names: Daniel
+  orcid: https://orcid.org/0000-0001-9767-9256
+  affiliation: "Berlin University of Applied Sciences and Technology, Berlin, Germany"
 title: isotopes2forecasts
 version: v1.0
 date-released: 2025-12-09
