@@ -8,11 +8,11 @@ martin.wegmann@unibe.ch
 
 # Content of this repository
 
-This is code that is supporting Wegmann et al. 2025 (TBA).
+This is code that is supporting Wegmann et al. 2026 (TBA) in Environmental Research: Climate.
 
 This repo consists of R scripts to calculate the EOFs of the isotopic information in the tree ring network.
 
-As well as a long python jupyter notebook to create the analysis and plots in the paper. This jupyter notebook uses both python and shell/CDO during its course. There are chronological depdencies in the notebook, so in theory you would need to run it from top to bottom to get all the results accordingly. 
+As well as a long python jupyter notebook to create the analysis and plots in the paper. This jupyter notebook uses both python and shell/CDO during its course. There are chronological depdencies in the notebook, so in theory you would need to run it from top to bottom to get all the results accordingly. But overall it is super messy and I acknowledge that it is not great for reproducibility. 
 
 Data sources can be found in the paper above.
 
